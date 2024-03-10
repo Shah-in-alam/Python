@@ -32,9 +32,9 @@ if __name__ == "__main__":
     scalar = 8
     scalar_multiplied_matrix = scalar_multiplication(original_matrix, scalar)
     print("\nScalar multiplication with {}:".format(scalar))
-    print('[[{}]'.format(', '.join(map(str, row))), end='')
-    for row in scalar_multiplied_matrix[0:]:
-        print(', [{}]'.format(', '.join(map(str, row))), end='')
+    print('[[{}]'.format(', '.join(map(str, scalar_multiplied_matrix[0]))), end='')
+    for row in scalar_multiplied_matrix[1:]:
+     print(', [{}]'.format(', '.join(map(str, row))), end='')
     print(']')
     # Transpose
     transposed_matrix = transpose(original_matrix)
@@ -43,4 +43,5 @@ if __name__ == "__main__":
     for row in transposed_matrix[1:]:
      print(', [{}]'.format(', '.join(map(str, row))), end='')
     print(']')
+
     
