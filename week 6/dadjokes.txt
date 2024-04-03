@@ -1,0 +1,8 @@
+[{'joke': 'What do you call recently-married spiders? Newly-webs.'}][{'joke': "What's brown and sticky? A stick."}]
+[{'joke': "What's brown and sticky? A stick."}][{'joke': "Can a kangaroo jump higher than a house? Of course, houses can't jump."}]
+[{'joke': "Can a kangaroo jump higher than a house? Of course, houses can't jump."}]{'message': "Endpoint '/random/joke' does not exist"}
+{'message': "Endpoint '/random/joke' does not exist"}{'message': "Endpoint '/random/joke' does not exist"}
+{'message': "Endpoint '/random/joke' does not exist"}[{'joke': 'What did Yoda say when he saw himself in 4K? HDMI.'}]
+[{'joke': 'What did Yoda say when he saw himself in 4K? HDMI.'}][{'joke': 'Just burned 2,000 calories. That’s the last time I leave brownies in the oven while I nap.'}]
+[{'joke': 'Just burned 2,000 calories. That’s the last time I leave brownies in the oven while I nap.'}][{'joke': 'Why are spiders so smart? They can find everything on the web.'}]
+[{'joke': 'Why are spiders so smart? They can find everything on the web.'}]
